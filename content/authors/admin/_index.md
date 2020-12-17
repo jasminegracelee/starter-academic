@@ -1,35 +1,35 @@
 ---
 # Display name
-title: Jasmine Lee
+title: The Montreal Bilingual Brain Initiative
 
 # Username (this should match the folder name)
-authors:
+authors: 
 - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: FRQSC team grant collaboration 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: McGill University, Concordia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bilingualism across the lifespan
+- Neural underpinnings of bilingualism
+- Individual differences in the bilingual experience
 
-education:
+Members:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: Shari Baum, PhD
+    institution: McGill University
+ 
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
