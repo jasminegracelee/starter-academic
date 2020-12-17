@@ -29,7 +29,6 @@ Members:
   courses:
   - course: Shari Baum, PhD
     institution: McGill University
- 
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
