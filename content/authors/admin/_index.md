@@ -3,7 +3,7 @@
 title: The Montreal Bilingual Brain Initiative
 
 # Username (this should match the folder name)
-authors: 
+authors: The Montreal Bilingual Brain Initiative
 - admin
 
 # Is this the primary user of the site?
